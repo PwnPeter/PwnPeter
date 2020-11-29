@@ -4,7 +4,7 @@
 [<img src='https://www.root-me.org/IMG/siteon0.svg' alt='root me' height='30'>](https://www.root-me.org/Peter_Pan) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='30'>](https://discordapp.com/users/450960137381871636) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/PwnPeter)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='30'>](https://twitter.com/PeterPwn_)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='30'>](medium.com/@PeterPwn)  
 
 
-### My main languages 🐱‍👤
+### ~~Main~~ Best languages 🐱‍👤
 
 <img src='https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg' alt='hack the box' height='30'>  <img src='https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg' alt='hack the box' height='30'>
 
