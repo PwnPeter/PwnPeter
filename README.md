@@ -2,7 +2,7 @@
 
 #### Follow my hacktivities
 [<img src='https://app.hackthebox.eu/images/logos/htb_ic2.svg' alt='hack the box' height='30'>](https://app.hackthebox.eu/profile/194774)
-[<img src='https://www.root-me.org/IMG/siteon0.svg' alt='root me' height='30'>](https://www.root-me.org/Peter_Pan) [<img src='https://upload.wikimedia.org/wikipedia/fr/0/05/Discord.svg' alt='discord' height='30'>](https://discordapp.com/users/450960137381871636) [<img src='https://upload.wikimedia.org/wikipedia/fr/c/c8/Twitter_Bird.svg' alt='twitter' height='30'>](https://twitter.com/PeterPwn_)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='30'>](medium.com/@PeterPwn)  
+[<img src='https://www.root-me.org/IMG/siteon0.svg' alt='root me' height='30'>](https://www.root-me.org/Peter_Pan) [<img src='https://upload.wikimedia.org/wikipedia/fr/0/05/Discord.svg' alt='discord' height='30'>](https://discordapp.com/users/450960137381871636) [<img src='https://upload.wikimedia.org/wikipedia/fr/c/c8/Twitter_Bird.svg' alt='twitter' height='30'>](https://twitter.com/PeterPwn_)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='30'>](https://medium.com/@PeterPwn)
 
 
 #### ~~Main~~ **Best** languages 🐱‍👤
